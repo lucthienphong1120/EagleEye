@@ -30,7 +30,7 @@ Warning: don't try with .edu and .gov
                            (True/False)
         -h, --help         Shows this help
         Example: python3 eagleeye.py https://example.com -w 1000 -s 1000 -m post
-        Website monitoring with check-host.net
+        Check website monitoring in https://check-host.net/
 
 
 ## Utilities
