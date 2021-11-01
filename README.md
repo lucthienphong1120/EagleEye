@@ -6,6 +6,8 @@ EagleEye is an HTTP DoS Test Tool.
 
 Attack Vector exploited: HTTP Keep Alive + NoCache
 
+Warning: don't try with .edu and .gov
+
 ## Usage
 
       https://shell.cloud.google.com/
@@ -47,6 +49,7 @@ Attack Vector exploited: HTTP Keep Alive + NoCache
 This software is distributed under the GNU General Public License version 3 (GPLv3)
 
 ## LEGAL NOTICE
-THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY! 
+THIS SOFTWARE IS PROVIDED FOR EDUCATIONAL USE ONLY!
+WARNING: DON'T TRY WITH .EDU AND .GOV
 IF YOU ENGAGE IN ANY ILLEGAL ACTIVITY THE AUTHOR DOES NOT TAKE ANY RESPONSIBILITY FOR IT. 
 BY USING THIS SOFTWARE YOU AGREE WITH THESE TERMS.
