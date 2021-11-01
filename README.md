@@ -10,7 +10,7 @@ Warning: don't try with .edu and .gov
 
 ## Usage
 
-      https://shell.cloud.google.com/
+      using with terminal or https://shell.cloud.google.com/
       git clone https://github.com/lucthienphong1120/EagleEye.git
       cd EagleEye
       python3 eagleeye.py <url> <options>
