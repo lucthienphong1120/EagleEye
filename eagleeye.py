@@ -53,7 +53,17 @@ JOIN_TIMEOUT = 1.0
 DEFAULT_WORKERS = 50
 DEFAULT_SOCKETS = 100
 
-EAGLEEYE_BANNER = 'EagleEye - DDoS Tools by LTP'
+EAGLEEYE_BANNER = """
+    '||''''|                '||`           '||''''|                 
+     ||   .                  ||             ||   .                  
+     ||'''|   '''|.  .|''|,  ||  .|''|,     ||'''|  '||  ||` .|''|, 
+     ||      .|''||  ||  ||  ||  ||..||     ||       `|..||  ||..|| 
+    .||....| `|..||. `|..|| .||. `|...     .||....|      ||  `|...  
+                         ||                           ,  |'         
+                      `..|'                            ''            
+
+            EagleEye - DDoS Tools by LTP
+"""
 
 USER_AGENT_PARTS = {
     'os': {
