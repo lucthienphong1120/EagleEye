@@ -12,10 +12,11 @@ Warning: don't try with .edu and .gov
 
       git clone https://github.com/lucthienphong1120/EagleEye.git
       cd EagleEye
-      python3 eagleeye.py <url> <options>
+      python3 eagleeye.py --help
 
 ## Options:
-
+```
+        python3 eagleeye.py <url> <options>
         Options            Description                                      Default
         -u, --useragents   Type of user-agents to generate                  (default: randomly generated)
                            (see in http://www.useragentstring.com/)
@@ -28,8 +29,12 @@ Warning: don't try with .edu and .gov
         -n, --nosslcheck   Do not verify SSL Certificate                    (default: True)
                            (True/False)
         -h, --help         Shows this help
+        
+        
         Example: python3 eagleeye.py https://example.com -w 1000 -s 1000 -m post
-        Check website monitoring in https://check-host.net/
+```
+
+Check website monitoring in https://check-host.net/
 
 
 ## Utilities
