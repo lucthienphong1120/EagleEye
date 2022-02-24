@@ -1,4 +1,4 @@
-# precursor: GoldenEye version 2.1 by Jan Seidl
+# EagleEye DDoS Tool version 2.1 by LTP
 
 EagleEye is only a tool for SECURITY TESTING PURPOSES!
 
