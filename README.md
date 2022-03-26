@@ -2,7 +2,7 @@
 
 EagleEye is only a tool for SECURITY TESTING PURPOSES!
 
-EagleEye is an HTTP DDoS Test Tool.
+EagleEye is an HTTP DDoS Tool.
 
 Attack Vector exploited: HTTP Keep Alive + NoCache
 
