@@ -16,8 +16,9 @@ cd EagleEye
 python3 eagleeye.py --help
 ```
 
-## Options:
-```
+## Options
+
+```sh
 python3 eagleeye.py <url> <options>
 
 Options            Description                                      Default
